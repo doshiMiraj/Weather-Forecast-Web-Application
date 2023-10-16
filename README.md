@@ -16,3 +16,6 @@ By using API of the OpenWeatherMap, the animated Image of Current Weather Condit
 
 If there is some mistake in entering location an invalid location is popped
 ![Screenshot 2023-10-16 222241](https://github.com/doshiMiraj/Weather-Forecast-Web-Application/assets/114590608/14eda713-eb90-452c-92ac-0381919615c7)
+
+Responsive:
+![image](https://github.com/doshiMiraj/Weather-Forecast-Web-Application/assets/114590608/ff2052d7-a49e-4ade-a166-8cb96fafdeb6)
