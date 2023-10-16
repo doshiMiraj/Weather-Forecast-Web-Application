@@ -1,4 +1,4 @@
-# Weather-Forecast-Web-Application
+# NatureVibe | Weather-Forecast-Web-Application
 
 Designed and built a weather forecast website utilizing the OpenWeatherMap API, Node.js, and Express.js.
 
